@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=M+PLUS+1:wght@100&family=Noto+Sans&family=Poppins:wght@300;400&family=Sansita+Swashed:wght@300&family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=M+PLUS+1:wght@100&family=Nanum+Gothic&family=Noto+Sans&family=Poppins:wght@300;400&family=Sansita+Swashed:wght@300&family=Space+Mono&display=swap');
+
 * {
     box-sizing: border-box;
 }
@@ -8,6 +11,11 @@ body {
     text-align: center;
     margin-top: 50px;
     background-color: rgba(0, 0, 0, 0.1);
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+h1 {
+    font-family: 'M PLUS 1', sans-serif;
 }
 
 .list-container {
